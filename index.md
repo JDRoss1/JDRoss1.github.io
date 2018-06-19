@@ -15,7 +15,7 @@ Take the duvet/blanket off, the top sheet and any pillows and place them aside o
 1. Fold the sheet under the mattress at the two bottom corners. This will make it fit nice and tight.
 1. Place the duvet or comforter on top. Once the top sheet is tucked in place, you can lay your blankets, duvet or comforter on top.
 
-> *Note*: There's a method for folding the end of the top sheet tightly under the mattress.  It is the trickiest step in making a bed, but it is also the part which will make your bed look neatest. It is called "hospital corner".
+> *Note*: There's a method for folding the end of the top sheet tightly under the mattress.  It is the trickiest step in making a bed, but it is also the part which will make your bed look neatest. It is called "hospital corner". See [Make Your Bed](https://www.wikihow.com/Make-Your-Bed)
 
 ![alt tag](bedlam.png "The finished bed")
 
