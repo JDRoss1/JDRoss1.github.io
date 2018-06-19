@@ -17,8 +17,7 @@ Take the duvet/blanket off, the top sheet and any pillows and place them aside o
 
 > *Note*: There's a method for folding the end of the top sheet tightly under the mattress.  It is the trickiest step in making a bed, but it is also the part which will make your bed look neatest. It is called "hospital corner".
 
-![../../Pictures/bedlam.png](../../Pictures/bedlam.png)
-
+![alt tag](bedlam.png "The finished bed")
 
 __Your bed is now ready for a perfect night's sleep.__
 ## 
